@@ -1,1 +1,1 @@
-docker-compose exec -it web sh
+docker-compose exec -it web bash
